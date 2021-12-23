@@ -1,8 +1,8 @@
-<?php require ('header.php')?>
+<?php require_once 'header.php';?>
 
 <div class="content">
     Текст <br>
     Текст
 </div>
 
-<?php require ('footer.php')?>
+<?php require ('parts/footer.php')?>
