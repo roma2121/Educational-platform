@@ -10,7 +10,7 @@ $address = "test-romahakrug@gmail.com@yandex.ru";
 $mes = "Имя: $name \nE-mail: $email \nТема: $sub \nТекст: $body";
 $send = mail ($address,$sub,$mes,"Content-type:text/plain; charset = UTF-8\r\nFrom:$email");
     if ($send == 'true')
-        {echo "Сообщение отправлено успешно, через 6 секунд Вы будете направлены на главную страницу блога <a href='https://bloggood.ru/'>BLOGGOOD.RU</a>,где сможете продолжить ваш просмотр";}
+        {echo "Сообщение отправлено успешно, через 6 секунд Вы будете направлены на главную страницу блога <a href='https://gdzotromana.ru/'>gdzotromana.ru</a>,где сможете продолжить ваш просмотр";}
     else {echo "Ошибка, сообщение не отправлено!";}
 }
     else
