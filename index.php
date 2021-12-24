@@ -10,12 +10,13 @@ require_once 'header.php';
     <link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
-<div class="container mt-4">
+<div class="container">
 <div class="row">
 <div class="col">
 <center>
-<img src="img/math.png" width="40" height="40">
+<a  href="https://vk.com/21roma2121"><img src="img/kartinka.png" width="1000" height="230"></a>
 </center>
+<p>
 
 <center>
 <h1>Добро пожаловать на наш сайт!</h1>
@@ -38,12 +39,16 @@ require_once 'header.php';
       <td
  rowspan="2"
 >
+
+
+<p><span style="color:#000080;"><span style="font-size: 18pt;"><span style="font-size: 16pt;"><span style="font-size: 16pt; font-family: Monotype Corsiva;"><span style="font-family: &quot;Times New Roman&quot;;"><span style="font-size: 12pt;"><strong><em><h5>Предлагаем вам инструмент, при помощи которого Ваши экзамены пройдут легко и просто, без пересдач!</h5></em></strong></span></span></span></span></span></span></p>
+
    <p><span style="color:#000080;"><span style="font-size: 18pt;"><span style="font-size: 18pt;"><span style="font-size: 18pt; font-family: Monotype Corsiva;"><span style="font-family: &quot;Times New Roman&quot;;"><span style="font-size: 12pt;"><strong><em><h4>Здесь Вы найдёте:</h4></em></strong></span></span></span></span></span></span></p>
 <ul>
- <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>полезную информацию для подготовки и сдаче зачетов по физике, математике;</h5></span></span></li>
+ <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>полезную информацию для подготовки и сдаче зачетов по физике, математичекому анализу  и теории вероятности;</h5></span></span></li>
  <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>подробно рассмотренное решение математических задач и заданий по физике;<h5></span></span></li>
- <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>выполненные в полном объеме самостоятельные работы;</h5></span></span></li>
- <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>оформленные практические работы;</h5></span></span></li>
+ <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>шпаргалки по физике, математическому анализу, теории вероятности;</h5></span></span></li>
+ <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>обширную базу готовых вариантов решения к заданиям, которую оставили до вас другие студенты;</h5></span></span></li>
  <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>ссылки на полезные сайты по  физике, математике и не только.</h5></span></span></li>
 </ul>
 <p><span style="color:#000080;"><span style="font-size: 18pt;"><span style="font-size: 18pt;"><span style="font-size: 18pt; font-family: Monotype Corsiva;"><span style="font-family: &quot;Times New Roman&quot;;"><span style="font-size: 12pt;"><strong><em><h4>В разделе "Решения":</h4></em></strong></span></span></span></span></span></span></p>
@@ -53,8 +58,9 @@ require_once 'header.php';
 </ul>
 <p><span style="color:#000080;"><span style="font-size: 18pt;"><span style="font-size: 18pt;"><span style="font-size: 18pt; font-family: Monotype Corsiva;"><span style="font-family: &quot;Times New Roman&quot;;"><span style="font-size: 12pt;"><strong><em><h4>Кроме этого вы сможете в разделе "Обратная связь":</h4></em></strong></span></span></span></span></span></span></p>
 <ul>
- <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"></h5>задать вопрос на интересующую Вас тему, получить заочную консультацию по дисциплинам;</h5></span></span></li>
- <li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"></h5>оставить свои пожелания или замечания по работе сайта.</h5></span></li>
+<li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>задать вопрос на интересующую Вас тему, получить заочную консультацию по дисциплинам;</h5></span></span></li>
+<li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>оставить свои пожелания или замечания по работе сайта;</h5></span></span></li>
+<li style="text-align: justify;"><span style="font-size:14px;"><span style="font-family:Times New Roman,Times,serif;"><h5>оформить заявку на оказание онлайн-помощи по ликвидации академической задолженности.</h5></span></span></li>
 </ul>
       </td>
       <td bgcolor=" #F8F8FF">
