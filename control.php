@@ -28,7 +28,7 @@
     </div>
     <div>
     <select class="form-select" name="newTask__genres[]" aria-label="Default select example">
-      <option selected>Нажмите для выбора предмета<?php include_once 'logic/get_genres.php';?></option>
+      <option selected>Нажмите для выбора предмета<?php include_once 'logic/get_genres.php'?></option>
     </select>
     </div>
     <p class="mt-3">

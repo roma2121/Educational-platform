@@ -34,3 +34,4 @@ try{
 function getNakedInput($input){
   return htmlentities(trim($input));
 }
+?>
