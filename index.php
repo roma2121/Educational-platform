@@ -14,7 +14,7 @@ require_once 'header.php';
 <div class="row">
 <div class="col">
 <center>
-<a  href="https://vk.com/21roma2121"><img src="img/kartinka.png" width="1000" height="230"></a>
+<a  href="https://vk.com/21roma2121"><img src="img/kartinka.png" width="1000" height="230" class="img-fluid"></a>
 </center>
 <p>
 
